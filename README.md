@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there! 😎👋
 
-<!--
-**harrydehix/harrydehix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stats
 
-Here are some ideas to get you started:
+[![harrydehix' GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydehix&show_icons=true&include_all_commits=true&hide=stars&theme=radical)](https://github.com/MrTK-Dev?tab=repositories)
+[![harrydehix' GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydehix&hide=ShaderLab&theme=radical)](https://github.com/harrydehix?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------
+
+## Currently Active Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=Cuno&show_owner=true&theme=radical)](https://github.com/harrydehix/Cuno)
+
+----------
+
+## Connect With Me
+
+[<img align="left" alt="harrydehix | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+<br />
+<br />
+<br />
+
+[github]: https://github.com/harrydehix
