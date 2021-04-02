@@ -2,7 +2,7 @@
 
 ## My Stats
 
-[![harrydehix' GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydehix&show_icons=true&include_all_commits=true&hide=stars&theme=radical)](https://github.com/MrTK-Dev?tab=repositories)
+[![harrydehix' GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydehix&show_icons=true&include_all_commits=true&hide=stars&theme=radical)](https://github.com/harrydehix?tab=repositories)
 [![harrydehix' GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydehix&hide=ShaderLab&theme=radical)](https://github.com/harrydehix?tab=repositories)
 
 ----------
