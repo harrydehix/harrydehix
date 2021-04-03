@@ -2,14 +2,15 @@
 
 ## My Stats
 
-[![harrydehix' GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydehix&show_icons=true&include_all_commits=true&hide=stars&theme=radical)](https://github.com/harrydehix?tab=repositories)
-[![harrydehix' GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydehix&hide=ShaderLab&theme=radical)](https://github.com/harrydehix?tab=repositories)
+[![harrydehix' GitHub Stats](https://github-readme-stats.vercel.app/api?username=harrydehix&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide=stars)](https://github.com/harrydehix?tab=repositories)
+[![harrydehix' GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydehix&theme=dark&langs_count=8)](https://github.com/harrydehix?tab=repositories)
+[![harrydehix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrydehix&theme=dark)](https://github.com/harrydehix)
 
 ----------
 
 ## Currently Active Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=Cuno&show_owner=true&theme=radical)](https://github.com/harrydehix/Cuno)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=Cuno&show_owner=true&theme=dark)](https://github.com/harrydehix/Cuno)
 
 ----------
 
