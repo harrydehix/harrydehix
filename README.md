@@ -17,8 +17,5 @@
 
 [<img align="left" alt="harrydehix | GitHub" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-<br />
-<br />
-<br />
 
 [github]: https://github.com/harrydehix
