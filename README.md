@@ -8,6 +8,7 @@
 ## Wakatime Stats
 
 [![harrydehix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrydehix&theme=dark)](https://github.com/harrydehix)
+(Since 03.04.2021)
 
 ## Currently Active Repos
 
