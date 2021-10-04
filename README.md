@@ -9,13 +9,23 @@
 [![harrydehix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harrydehix&theme=dark)](https://github.com/harrydehix)
 <br><small>Since 03.04.2021</small>
 
-## Currently Active Repos
+## What I'm Proud Of😆: Repo Showcase
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=infix-postfix&show_owner=true&theme=dark)](https://github.com/harrydehix/infix-postfix)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=vantjs&show_owner=true&theme=dark)](https://github.com/harrydehix/vantjs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=unitjs&show_owner=true&theme=dark)](https://github.com/harrydehix/unitjs)
+### Colordventure
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=Colordventure&show_owner=true&theme=dark)](https://github.com/harrydehix/Colordventure)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=Cuno&show_owner=true&theme=dark)](https://github.com/harrydehix/Cuno)
+<p>A small javafx application that allows you to create charming patterns.</p>
+
+### Infix-Postifx
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=infix-postfix&show_owner=true&theme=dark)](https://github.com/harrydehix/infix-postfix)
+<p>A npm package allowing you to convert infix expressions to postfix expressions.</p>
+
+### vantjs
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=vantjs&show_owner=true&theme=dark)](https://github.com/harrydehix/vantjs)
+<p>An easy and powerful interface to the Vantage Vue, Pro and Pro 2 weather station!</p>
+
+### simple-units
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harrydehix&repo=simple-units&show_owner=true&theme=dark)](https://github.com/harrydehix/simple-units)
+<p>A unit converter with focus on the golden mean between simplicity, customizability and performance.</p>
 
 ## Connect With Me
 
